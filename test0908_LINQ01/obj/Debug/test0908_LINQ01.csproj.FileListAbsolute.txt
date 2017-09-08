@@ -1,0 +1,9 @@
+D:\LABC#\test0908_LINQ01\test0908_LINQ01\bin\Debug\test0908_LINQ01.exe.config
+D:\LABC#\test0908_LINQ01\test0908_LINQ01\bin\Debug\test0908_LINQ01.exe
+D:\LABC#\test0908_LINQ01\test0908_LINQ01\bin\Debug\test0908_LINQ01.pdb
+D:\LABC#\test0908_LINQ01\test0908_LINQ01\obj\Debug\test0908_LINQ01.csprojResolveAssemblyReference.cache
+D:\LABC#\test0908_LINQ01\test0908_LINQ01\obj\Debug\test0908_LINQ01.Form1.resources
+D:\LABC#\test0908_LINQ01\test0908_LINQ01\obj\Debug\test0908_LINQ01.Properties.Resources.resources
+D:\LABC#\test0908_LINQ01\test0908_LINQ01\obj\Debug\test0908_LINQ01.csproj.GenerateResource.Cache
+D:\LABC#\test0908_LINQ01\test0908_LINQ01\obj\Debug\test0908_LINQ01.exe
+D:\LABC#\test0908_LINQ01\test0908_LINQ01\obj\Debug\test0908_LINQ01.pdb
